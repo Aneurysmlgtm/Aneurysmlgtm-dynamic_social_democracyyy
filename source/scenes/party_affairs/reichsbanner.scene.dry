@@ -5,7 +5,6 @@ tags: party_affairs
 view-if: reichsbanner_timer <= 0 and not rb_explode
 card-image: img/reichsbanner.jpg
 on-arrival: reichsbanner_timer += 4; rb_militarization_cost = 1
-max-visits: 6
 #subtitle: Paramilitary organizing in defense of the republic.
 
 = Reichsbanner
